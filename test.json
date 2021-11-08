@@ -1,0 +1,28 @@
+{"nodes":
+    [
+        {"id":0,"name":"3,5-Di-tert-butyl-4-hydroxyphenylpropionic acid","group":"NS","color":"brown","radius":0},
+        {"id":1,"name":"4-Pentylphenol","group":"NS","color":"brown","radius":66.24},
+        {"id":2,"name":"Benzenepropanoic acid, 3,5-bis(1,1-dimethylethyl)-4-hydroxy-, C7-9-branched alkyl esters","group":"NS","color":"brown","radius":0},
+        {"id":3,"name":"Isotridecyl 3-(3,5-di-tert-butyl-4-hydroxyphenyl)propionate","group":"NS","color":"brown","radius":0},
+        {"id":4,"name":"Methyl 3,5-di-tert-butyl-4-hydroxyhydrocinnamate","group":"NS","color":"brown","radius":47.17},
+        {"id":5,"name":"Octadecyl 3,5-di-tert-butyl-4-hydroxyhydrocinnamate","group":"NS","color":"brown","radius":0},
+        {"id":6,"name":"Triethylene glycol bis[3-(3-tert-butyl-4-hydroxy-5-methylphenyl)propionate]","group":"NS","color":"brown","radius":0},
+        {"id":7,"name":"p-Heptylphenol","group":"NS","color":"brown","radius":68.72},{"name":"2,6-Di-tert-butyl-4-ethylphenol","group":"S","color":"green","radius":86.02},
+        {"id":8,"name":"Butylated hydroxytoluene","group":"SOI","color":"#1f77b4","radius":98.49},
+        {"id":9,"name":"2,6-Di-tert-butyl-4-hydroxymethylphenol","group":"SPC","color":"rosybrown","radius":85.39},
+        {"id":10,"name":"3,5-Di-tert-butyl-4-hydroxybenzaldehyde","group":"SPC","color":"rosybrown","radius":0},
+        {"id":11,"name":"2,6-Di-tert-butylphenol","group":"SUI","color":"#E69F00","radius":85.88},
+        {"id":12,"name":"2,6-Diisopropylphenol","group":"SUI","color":"#E69F00","radius":82.99},
+        {"id":13,"name":"4,6-Di-tert-butyl-o-cresol","group":"SUI","color":"#E69F00","radius":76.75},
+        {"id":14,"name":"4-sec-Butyl-2,6-di-tert-butylphenol","group":"SUI","color":"#E69F00","radius":75.65}
+        ],
+        "links":
+        [
+            {"index":0,"source":9,"target":0,"weight":0,"group":"NS"},
+            {"index":1,"source":9,"target":1,"weight":66.24,"group":"NS"},
+            {"index":2,"source":9,"target":2,"weight":0,"group":"NS"},
+            {"index":3,"source":9,"target":3,"weight":0,"group":"NS"},
+            {"index":4,"source":9,"target":4,"weight":47.17,"group":"NS"},
+            {"index":5,"source":9,"target":5,"weight":0,"group":"NS"},
+            {"index":6,"source":9,"target":6,"weight":0,"group":"NS"},
+            {"index":7,"source":9,"target":7,"weight":68.72,"group":"NS"},{"index":8,"source":9,"target":8,"weight":86.02,"group":"S"},{"index":9,"source":9,"target":9,"weight":98.49,"group":"SOI"},{"index":10,"source":9,"target":10,"weight":85.39,"group":"SPC"},{"index":11,"source":9,"target":11,"weight":0,"group":"SPC"},{"index":12,"source":9,"target":12,"weight":85.88,"group":"SUI"},{"index":13,"source":9,"target":13,"weight":82.99,"group":"SUI"},{"index":14,"source":9,"target":14,"weight":76.75,"group":"SUI"},{"index":15,"source":9,"target":15,"weight":75.65,"group":"SUI"}]} 
